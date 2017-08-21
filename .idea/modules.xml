@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ValueConverterTest.iml" filepath="$PROJECT_DIR$/ValueConverterTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ValueConverterTest_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ValueConverterTest_integrationTest.iml" group="ValueConverterTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ValueConverterTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ValueConverterTest_main.iml" group="ValueConverterTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ValueConverterTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ValueConverterTest_test.iml" group="ValueConverterTest" />
+    </modules>
+  </component>
+</project>
